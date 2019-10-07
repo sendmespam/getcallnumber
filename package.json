@@ -1,0 +1,33 @@
+{
+  "name": "lv.eduards.plugin.phonecalltrap",
+  "version": "0.1.0",
+  "description": "A phone call trap",
+  "cordova": {
+    "id": "lv.eduards.plugin.phonecalltrap",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendmespam/getcallnumber.git"
+  },
+  "keywords": [
+    "phonegap",
+    "calendar",
+    "phone",
+    "call",
+    "phone-call",
+    "ringing",
+    "phone-state",
+    "call-state",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Eduards Priednieks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sendmespam/getcallnumber/issues"
+  },
+  "homepage": "https://github.com/sendmespam/getcallnumber#readme"
+}
